@@ -8,3 +8,4 @@
 ### 08-2. [패럴랙스 스크롤링 효과 만들기](https://github.com/LAH1203/Doit_FE_WebDesign/blob/main/Chapter%208/8-2.md)
 > 패럴랙스 스크롤링 원리 살펴보기<br>
 > 패럴랙스 스크롤링 효과를 만드는 다양한 jQuery 플러그인
+#### [08-2 예제](https://github.com/LAH1203/Doit_FE_WebDesign/tree/main/Chapter%208/8-2%20%EC%98%88%EC%A0%9C)
